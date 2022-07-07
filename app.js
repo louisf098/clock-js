@@ -46,6 +46,7 @@ let updateClock = function() {
 
     if (time == partytime) {
         image = "https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/08/partyTime.jpg";
+        messageText = 'doo doo doo';
     }
     else if (time == wakeuptime) {
         image = "https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/09/cat1.jpg";
